@@ -1,0 +1,1 @@
+# AICTE-Internship-Plant-Disease-Detection
